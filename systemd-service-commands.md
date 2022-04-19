@@ -1,8 +1,8 @@
 
  # Use it to start a service. Does not persist after reboot
-    ```
-    sudo systemctl start SERVICE
-    ```
+```
+   sudo systemctl start SERVICE
+```
  # Use it to stop a service. Does not persist after reboot
     ```
     sudo systemctl stop SERVICE
